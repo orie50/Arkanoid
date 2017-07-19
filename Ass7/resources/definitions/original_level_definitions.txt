@@ -1,0 +1,60 @@
+
+# Level 1
+# Win the cup
+
+START_LEVEL
+level_name:World Cup
+ball_velocities:60,500 -60,500
+background:image(background_images/cup.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/cup_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:50
+row_height:25
+num_blocks:119
+START_BLOCKS
+lllllllllllllll
+-
+-----llllll
+-----llllll
+---llllllllll
+---llllllllll
+---l--llll--l
+---l--llll--l
+---llllllllll
+---llllllllll
+----llllllll
+----llllllll
+--llllllllllll
+--llllllllllll
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+# Win the cup
+
+START_LEVEL
+level_name:In the zoo
+ball_velocities:30,500 -30,500 60,500 -60,500
+background:image(background_images/zoo.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/zoo_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:91
+START_BLOCKS
+-
+--mmmmmmmmmmm
+--mmmmmmmmmmm
+--lllllllllll
+--mmlleeellmm
+------eee
+--mmlleeellmm
+--lllllllllll
+--mmmmmmmmmmm
+--mmmmmmmmmmm
+END_BLOCKS
+END_LEVEL

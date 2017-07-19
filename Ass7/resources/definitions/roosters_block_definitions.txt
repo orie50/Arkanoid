@@ -1,0 +1,7 @@
+# block definitions
+
+bdef symbol:r width:300 height:100 hit_points:10 stroke:color(black) fill:image(roosters_blocks/lose_1.png) fill-2:image(roosters_blocks/lose_2.png) fill-3:image(roosters_blocks/lose_3.png) fill-4:image(roosters_blocks/lose_4.png) fill-5:image(roosters_blocks/lose_5.png) fill-6:image(roosters_blocks/lose_6.png) fill-7:image(roosters_blocks/lose_7.png) fill-8:image(roosters_blocks/lose_8.png) fill-9:image(roosters_blocks/lose_9.png) fill-10:image(roosters_blocks/lose_10.png)
+
+# spacers definitions
+sdef symbol:- width:225
+

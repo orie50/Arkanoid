@@ -1,0 +1,8 @@
+# default values for blocks
+
+
+# block definitions
+bdef symbol:l stroke:color(black) height:25 width:50 hit_points:2 fill:image(block_images/little_cup.png) fill-2:color(yellow)
+
+# spacers definitions
+sdef symbol:- width:50
